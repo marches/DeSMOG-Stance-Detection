@@ -14,7 +14,7 @@ Extension of baseline BERT leveraging predicted class weights to customize loss 
 Weighted BERT leveraging two versions of CNN to fine-tune BERT outputs leveraging the sequential output and hidden layers. 
 
 ### CNN-LSTM
-Exploration of static-embedding approach to classify DeSMOG dataset using word2vec embeddings. 
+Exploration of static-embedding approach to classify DeSMOG dataset using word2vec embeddings. (WIP, not referenced in final project writeup.) 
 
 ### Model Performance EDA
 Analysis of fine-tuned BERT model failure modes. 

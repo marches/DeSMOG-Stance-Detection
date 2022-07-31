@@ -1,4 +1,4 @@
-# DeSMOG-Stance-Detection
+# DeSMOG: Climate Change Stance Classification in News Media
 Final Project for W266 Natural Language Processing, Spring 2022
 
 ### Data Cleaning and EDA
